@@ -9,6 +9,7 @@ Closely follow the syntax of the given `console.log` example.
 
 console.log('Hello World!');
 
+
 // Print out your own message using console.log below:
 console.log("I love you");
 // Your code here 

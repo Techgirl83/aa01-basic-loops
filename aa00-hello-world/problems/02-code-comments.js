@@ -14,7 +14,7 @@ console.log('Welcome to App Academy!');
 // Try adding your own single line comments:
 
 // Your code here 
-
+console.log(hello);
 /* 3.
 This is a multi-line comment.
 Try adding your own multi-line comments:
